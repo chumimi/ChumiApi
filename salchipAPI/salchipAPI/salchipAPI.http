@@ -1,0 +1,6 @@
+@salchipAPI_HostAddress = http://localhost:5038
+
+GET {{salchipAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
